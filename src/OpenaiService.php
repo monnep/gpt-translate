@@ -119,6 +119,9 @@ class OpenaiService
             case 'pt':
                 $str_lang = "portuguese";
                 break;
+            case 'dk':
+                $str_lang = "danish";
+                break;
             default:
                 $str_lang = "english";
                 break;
